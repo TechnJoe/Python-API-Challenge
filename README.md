@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python API Homework - What's the Weather Like?
 
 ## Background
@@ -120,3 +121,6 @@ As final considerations:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# Python-API-Challenge
+>>>>>>> f4e0cb7ca65b060908d1b8700216af44dd77fc05
